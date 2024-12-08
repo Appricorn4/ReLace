@@ -1,4 +1,4 @@
 # ReLace is a project to add software frame generation from outside games and eventually video through the use of interlacing
 # the currently displayed frame with the current rendered frame in the GPU. The project is designed for the Wayland display
 # protocol. The goal of the project is to artificially double framerates with as little as a 1-frame input delay. This project
-# is FOR FUN and quality over functionality and stability will not be prioritized.
+# is FOR FUN and quality  will not be prioritized over functionality and stability.
